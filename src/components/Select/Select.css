@@ -11,7 +11,7 @@
 }
 
 .select.open {
-  border: 1px solid #3c3f72;
+  border: 1px solid #0984e3;
 }
 
 .select .select-control {
@@ -67,7 +67,8 @@
 }
 
 .select-options .option.selected {
-  font-weight: bold;
+  background-color: #0984e3;
+  color: #fff;
 }
 
 .select-options .option:hover {
